@@ -17,10 +17,9 @@ I'm Syfur from University of Barishal, Bangladesh.
 <img align='left'  src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
 <img align='left' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
 </p>
-
 <br/>
 <br/>
-<p align='center' style="margin-top:40px">
+<p>
 - 🌱 I’m currently learning Android app development in Android Studio using Kotlin
 <!--
 - 👯 I’m looking to collaborate on ...
