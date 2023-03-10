@@ -7,7 +7,7 @@ I'm Syfur from University of Barishal, Bangladesh.
 <img align='left' width='47%' height='250px'  src="https://github-readme-stats.vercel.app/api?username=Syfur007&show_icons=true&theme=dracula" />
 <img align='left' width='47%' height='250px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syfur007&layout=compact"/>
 </p>
-<br />
+<br/>
 <br/>
 <p align='center' style="margin-top:40px">
 <img align='left' src='https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white'/>
@@ -18,7 +18,8 @@ I'm Syfur from University of Barishal, Bangladesh.
 <img align='left' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
 </p>
 
-
+<br/>
+<br/>
 <p align='center' style="margin-top:40px">
 - 🌱 I’m currently learning Android app development in Android Studio using Kotlin
 <!--
