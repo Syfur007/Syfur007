@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+I'm Syfur from Bangladesh, I'm currently learning Android app development.
+
 
 <p>
-<img align='left' width='47%' height='250px'  src="https://github-readme-stats.vercel.app/api?username=anichu&show_icons=true&theme=dracula" />
-<img align='left' width='47%' height='250px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anichu&layout=compact"/>
+<img align='left' width='47%' height='250px'  src="https://github-readme-stats.vercel.app/api?username=Syfur007&show_icons=true&theme=dracula" />
+<img align='left' width='47%' height='250px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syfur007&layout=compact"/>
 </p>
 <br />
 <br/>
@@ -15,9 +17,6 @@
 <img align='left'  src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
 <img align='left'  src='https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white' />
 </p>
-
-
-
 
 <!--
 **Syfur007/Syfur007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
