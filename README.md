@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Syfur from Bangladesh, 🌱 I'm currently learning Android app development.
+I'm Syfur from University of Barishal, Bangladesh.
 
 
 <p>
