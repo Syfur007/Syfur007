@@ -4,7 +4,7 @@ I'm Syfur from University of Barishal, Bangladesh.
 
 
 <p>
-<img align='left' width='55%' height='250px'  src="https://github-readme-stats.vercel.app/api?username=Syfur007&show_icons=true&theme=dracula" />
+<img align='left' width='53%' height='250px'  src="https://github-readme-stats.vercel.app/api?username=Syfur007&show_icons=true&theme=dracula" />
 <img align='left' width='40%' height='250px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syfur007&layout=compact&theme=dracula"/>
 </p>
 <br/>
