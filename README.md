@@ -8,9 +8,10 @@
   </p>
 </p>
 
-| GitHub Stats | Top Languages |
-|---:|:---|
-| <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Syfur007&show_icons=true&theme=radical" width="420" /> | <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syfur007&layout=compact&theme=radical" width="300" /> |
+<p align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Syfur007&show_icons=true&theme=radical" width="420" style="border:0;" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syfur007&layout=compact&theme=radical" width="300" style="border:0;margin-left:16px;" />
+</p>
 
 ---
 
@@ -35,10 +36,3 @@
 - Competitive programming in C++
 - Scripting and prototypes in Python
 - Machine Learning in Pytorch
-
----
-
-### Get in touch
-- GitHub: [@Syfur007](https://github.com/Syfur007)
-- Email: (add your email here)
-- LinkedIn: (add your LinkedIn URL)
