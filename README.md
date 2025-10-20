@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Syfur007&show_icons=true&theme=radical" width="420" style="border:0;" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syfur007&layout=compact&theme=radical" width="300" style="border:0;margin-left:16px;" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Syfur007&show_icons=true&theme=radical" height="150" style="border:0;" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syfur007&layout=compact&theme=radical" height="150"  style="border:0;margin-left:16px;" />
 </p>
 
 ---
