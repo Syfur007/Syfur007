@@ -8,12 +8,9 @@
   </p>
 </p>
 
-<table>
-  <tr>
-    <td><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Syfur007&show_icons=true&theme=radical" width="420" /></td>
-    <td><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syfur007&layout=compact&theme=radical" width="300" /></td>
-  </tr>
-</table>
+| GitHub Stats | Top Languages |
+|---:|:---|
+| <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Syfur007&show_icons=true&theme=radical" width="420" /> | <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syfur007&layout=compact&theme=radical" width="300" /> |
 
 ---
 
