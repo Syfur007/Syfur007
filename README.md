@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/Syfur007.png" alt="avatar" width="120" style="border-radius:50%" />
   <h1 align="center">Hi, I'm Syfur 👋</h1>
   <p align="center">Student • Android & ML • C++ / Python</p>
   <p align="center">
