@@ -4,7 +4,7 @@
   <p align="center">Student • Android & ML • C++ / Python</p>
   <p align="center">
     <a href="https://github.com/Syfur007"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@Syfur007-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://codeforces.com/profile/Syfur007"><img alt="Email" src="https://img.shields.io/badge/Codeforces-Syfur007-0078D4?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/syfur-bucse/"><img alt="Email" src="https://img.shields.io/badge/LinkedIn-Syfur Rahman-0078D4?style=for-the-badge&logo=invision&logoColor=white" /></a>
   </p>
 </p>
 
@@ -21,6 +21,7 @@
   <img alt="Python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="Pytorch" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="Pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
